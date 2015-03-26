@@ -8,7 +8,7 @@ Doge is a sublime plugin that shows you a picture of doge if your cursor is curr
 
 The easy way is to first install the [Package Control](http://wbond.net/sublime_packages/package_control/installation) plugin.
 Once it's installed, press Ctrl-Shift-P (or Cmd-Shift-P), type `install`, and select "Package Control: Install Packages".
-Then type "doge", and choose to install the SendText plugin.
+Then type "doge", and choose to install the doge plugin.
 
 The other way is to clone this git repository into your `Sublime Text 3/Packages` directory. This will be in different places depending on the OS:
 
