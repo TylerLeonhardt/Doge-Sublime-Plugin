@@ -1,3 +1,3 @@
 [
-{ "keys": ["ctrl+shift+1"], "command": "toggle" }
+{ "keys": ["ctrl+shift+!"], "command": "toggle" }
 ]
