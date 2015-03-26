@@ -6,11 +6,9 @@ Doge is a sublime plugin that shows you a picture of doge if your cursor is curr
 
 ## Installation
 
-The easy way is to first install the [Package Control](http://wbond.net/sublime_packages/package_control/installation) plugin.
-Once it's installed, press Ctrl-Shift-P (or Cmd-Shift-P), type `install`, and select "Package Control: Install Packages".
-Then type "doge", and choose to install the doge plugin.
+I attempted to put this plugin on Package Control however they deemed it as "essentially useless" and "don't think adding it to the PC channel will be of use for anyone" [(here)](https://github.com/wbond/package_control_channel/pull/4259). Frankly I was pretty offended because it was my first plugin (I wasn't aware of this user-checked pull request) and I didn't realize Package Control was so "selective" for a searched-based package manager but what are you going to do! Some people just don't see the joy that this plugin could bring! I probably won't work on anymore Sublime Plugins anymore unless I stumble upon an idea that's "usefull" in the eyes of Package Control. If you wanted to make a fun sublime plugin, don't bother going to Package Control... but I hope those of you who like Doge, will appreciate this and perhaps say something.
 
-The other way is to clone this git repository into your `Sublime Text 3/Packages` directory. This will be in different places depending on the OS:
+The ONLY way is to clone this git repository into your `Sublime Text 3/Packages` directory. This will be in different places depending on the OS:
 
 * Windows: `%APPDATA%\Sublime Text 3\Packages`
 * OS X: `~/Library/Application Support/Sublime Text 3/Packages`
